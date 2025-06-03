@@ -1,4 +1,4 @@
-# Coles Meat & Seafood Web Scraper
+# Coles website price scrapper
 
 ![Python](https://img.shields.io/badge/Python-3.7%2B-blue)
 ![Selenium](https://img.shields.io/badge/Selenium-4.0%2B-orange)
